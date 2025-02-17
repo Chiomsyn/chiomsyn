@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there, I'm Chioma Ezeamama 👋
+🚀 Senior Flutter & Full-Stack Developer | Next.js | Node.js | Firebase
 
-<!--
-**Chiomsyn/chiomsyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+🔥 About Me
+<ul>
+  <li>👨‍💻 Passionate about building scalable mobile & web applications.</li>
+  <li>🎨 Love crafting beautiful & intuitive UIs with Flutter & React.</li>
+  <li>🌍 Enthusiast in FinTech, EMR Systems, and Real-Time Applications.</li>
+  <li>🛠️ Strong focus on performance, security, and clean architecture.</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/> 
+
+🛠️ Tech Stack
+<ul>
+  <li>Mobile Development: Flutter, Dart, Firebase, Provider</li>
+  <li>Frontend: Next.js, React, TypeScript, Tailwind CSS</li>
+  <li>Backend: Node.js, NestJS, Express.js, Firebase Functions</li>
+  <li>Databases: Firestore, MongoDB, MySQL</li>
+  <li>DevOps & Cloud: AWS ( S3, RDS), Firebase, GitHub Actions</li>
+  <li>Version Control: Git, GitHub</li>
+  <li>CI/CD: GitHub Actions</li>
+</ul>
+
+- 📫 How to reach me: chioma.m.ezeamamam@gmail.com
+- 😄 Pronouns: She
+- ⚡ Fun fact: Tech Enthusiat, Everyday Learner
+
+

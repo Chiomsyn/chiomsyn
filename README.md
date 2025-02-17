@@ -1,5 +1,5 @@
 ## Hi there, I'm Chioma Ezeamama 👋
-🚀 Senior Flutter & Full-Stack Developer | Next.js | Node.js | Firebase
+🚀 Flutter & Full-Stack Developer | Next.js | Node.js | Firebase
 
 <hr/>
 

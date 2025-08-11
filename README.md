@@ -1,5 +1,5 @@
 ## Hi there, I'm Chioma Ezeamama 👋
-🚀 AI Enthusiast, Flutter & Front End Developer | Next.js | Tailwind
+🚀 AI Enthusiast, Software Engineer
 
 <hr/>
 

@@ -24,7 +24,7 @@
   <li>CI/CD: GitHub Actions</li>
 </ul>
 
-- 📫 How to reach me: chioma.m.ezeamamam@gmail.com
+- 📫 How to reach me: chioma.m.ezeamama@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: Tech Enthusiat, Everyday Learner
 

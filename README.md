@@ -1,5 +1,5 @@
 ## Hi there, I'm Chioma Ezeamama 👋
-🚀 Flutter & Front End Developer | Next.js | Tailwind
+🚀 AI Enthusiast, Flutter & Front End Developer | Next.js | Tailwind
 
 <hr/>
 

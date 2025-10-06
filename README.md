@@ -1,5 +1,5 @@
 ## Hi there, I'm Chioma Ezeamama 👋
-🚀 AI Enthusiast, Software Engineer
+🚀 AI Enthusiast, Software Engineer (Frontend & Mobile)
 
 <hr/>
 
@@ -15,7 +15,7 @@
 
 🛠️ Tech Stack
 <ul>
-  <li>Mobile Development: Flutter, Dart, Firebase, Provider</li>
+  <li>Mobile Development: Flutter, Dart, React Native</li>
   <li>Frontend: Next.js, React, TypeScript, Tailwind CSS</li>
   <li>Backend: Node.js, NestJS, Express.js, Firebase Functions</li>
   <li>Databases: Firestore, MongoDB, MySQL</li>

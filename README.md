@@ -1,19 +1,19 @@
 ## Hi there, I'm Chioma Ezeamama 👋
-🚀 AI Enthusiast, Software Engineer (Frontend & Mobile)
+ AI Enthusiast, Software Engineer (Frontend & Mobile)
 
 <hr/>
 
 🔥 About Me
 <ul>
-  <li>👨‍💻 Passionate about building scalable mobile & web applications.</li>
-  <li>🎨 Love crafting beautiful & intuitive UIs with Flutter & React.</li>
-  <li>🌍 Enthusiast in FinTech, EMR Systems, and Real-Time Applications.</li>
-  <li>🛠️ Strong focus on performance, security, and clean architecture.</li>
+  <li>Passionate about building scalable mobile & web applications.</li>
+  <li>Love crafting beautiful & intuitive UIs with Flutter & React.</li>
+  <li>Enthusiast in FinTech, EMR Systems, and Real-Time Applications.</li>
+  <li>Strong focus on performance, security, and clean architecture.</li>
 </ul>
 
 <hr/> 
 
-🛠️ Tech Stack
+Tech Stack
 <ul>
   <li>Mobile Development: Flutter, Dart, React Native</li>
   <li>Frontend: Next.js, React, TypeScript, Tailwind CSS</li>
@@ -24,8 +24,8 @@
   <li>CI/CD: GitHub Actions</li>
 </ul>
 
-- 📫 How to reach me: <a href="chiomaezeamama.m@gmail.com">chiomaezeamama.m@gmail.com</a>
+- How to reach me: <a href="chiomaezeamama.m@gmail.com">chiomaezeamama.m@gmail.com</a>
 - 😄 Pronouns: She
-- ⚡ Fun fact: Tech Enthusiat, Everyday Learner, Anime Lover
+-  Fun fact: Tech Enthusiat, Everyday Learner, Anime Lover
 
 
